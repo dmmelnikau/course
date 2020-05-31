@@ -1,0 +1,12 @@
+﻿  func.cpp
+c:\users\ariana\вуз\курсач 2.2\proga\client\client\func.cpp(224): warning C4101: trash: неиспользованная локальная переменная
+c:\users\ariana\вуз\курсач 2.2\proga\client\client\func.cpp(239): warning C4101: trash: неиспользованная локальная переменная
+c:\users\ariana\вуз\курсач 2.2\proga\client\client\func.cpp(237): warning C4101: c_name: неиспользованная локальная переменная
+c:\users\ariana\вуз\курсач 2.2\proga\client\client\func.cpp(536): warning C4101: value: неиспользованная локальная переменная
+c:\users\ariana\вуз\курсач 2.2\proga\client\client\func.cpp(559): warning C4101: value: неиспользованная локальная переменная
+c:\users\ariana\вуз\курсач 2.2\proga\client\client\func.cpp(583): warning C4101: value: неиспользованная локальная переменная
+c:\users\ariana\вуз\курсач 2.2\proga\client\client\func.cpp(611): warning C4101: newvalues: неиспользованная локальная переменная
+c:\users\ariana\вуз\курсач 2.2\proga\client\client\func.cpp(660): warning C4101: value: неиспользованная локальная переменная
+c:\users\ariana\вуз\курсач 2.2\proga\client\client\func.cpp(659): warning C4101: res: неиспользованная локальная переменная
+c:\users\ariana\вуз\курсач 2.2\proga\client\client\func.cpp(682): warning C4101: newvalues: неиспользованная локальная переменная
+  Client.vcxproj -> C:\Users\Ariana\ВУЗ\курсач 2.2\Proga\Client\Debug\Client.exe
